@@ -18,7 +18,7 @@ The problem addressed in this project is to design a data-driven predictive mode
 - Environment: Jupyter Notebook
 
 🔄 ML Workflow
-'''
+```
 Data Collection
         ↓
 Data Cleaning
@@ -32,7 +32,7 @@ Model Training
 Model Evaluation
         ↓
 Prediction
-'''
+```
 
 ## 🤖 Machine Learning Models Used
 - Linear Regression
